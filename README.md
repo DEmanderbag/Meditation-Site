@@ -1,5 +1,6 @@
 # Meditation-Site
-My first website that I've made where I tried basics of Flexbox. 
+I created this page to practice Flexbox, CSS variables, clip-path, and also learned how to structure code better.
+
 Inspiration from a [dribble shot](https://dribbble.com/shots/3397712-Pauze-Homepage) made by [Enes Ateş](https://dribbble.com/enesates)
 
 
